@@ -1,0 +1,9 @@
+{
+	"name": "adfbatchprocessing001",
+	"location": "norwayeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "94de4285-59fd-4da2-b019-c31ff8f1e6b1",
+		"tenantId": "8eddf79d-5f75-4d2e-b026-49d269e6f268"
+	}
+}
